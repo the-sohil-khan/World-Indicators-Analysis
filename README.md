@@ -136,3 +136,5 @@ If you have suggestions, feedback, or would like to collaborate, feel free to co
 ## 📸 Screenshot Demo
 
 ![World Indicators Analysis Dashboard](https://raw.githubusercontent.com/SohilKhan63/World-Indicators-Analysis/main/World%20Indicators%20Analysis%20Dashboard.png)
+
+![World Indicators Analysis Dashboard](https://github.com/SohilKhan63/World-Indicators-Analysis/blob/main/Data%20Modelling.png)
